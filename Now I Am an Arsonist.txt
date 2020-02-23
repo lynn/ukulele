@@ -9,7 +9,7 @@ Capo on 1st fret, or tune up a semitone to G# C# E# A#.
 Pattern 1 (C lydian)
 A│––––––––––––––––│
 E│0––2–––3––––––––│
-C│–0–––0–––0–––0––│
+C│–0–––0–––0–––-––│
 G│––0–––0–––0–––0–│
 
     Em    0202
