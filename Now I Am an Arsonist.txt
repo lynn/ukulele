@@ -35,15 +35,15 @@ Till it got too bright to see
 ────────────────────────────────────────────────────────
 
     Fm6   5545
-    C     5435
+    Cadd9 5435
     Ab    1343
     Eb    3331
     F     2010
     Gno5  0x32
 
-Fm6  C      Ab                   Eb           F
+Fm6  Cadd9  Ab                   Eb           F
 Far away, I hear the things they say about me
-Fm6  C           Ab              Eb            Gno5
+Fm6  Cadd9       Ab              Eb            Gno5
 Even though they know you had to go without me
 
 ────────────────────────────────────────────────────────
