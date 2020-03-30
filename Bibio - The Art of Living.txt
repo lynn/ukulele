@@ -1,0 +1,34 @@
+"The Art of Living"
+by Bibio
+chords for soprano ukulele https://github.com/lynn/ukulele
+
+The song is in F# major, so let's tune down a semitone and play in G on the ukulele.
+
+────────────────────────────────────────────────────────
+
+        0222    0202   0002    5555
+Intro:  Gmaj7   Em7    Cmaj7   F6
+
+The same chords go over the verse, but slower:
+
+    Gmaj7                       Em7
+    Cherry trees in bloom, view from my living room
+    Cmaj7     F6
+    Remind me
+    ...
+    (x4)
+
+The last time, play F13 [2315] instead of F6. Then, the little "chorus" goes:
+
+    0211
+    Gm7
+    To view the rest up close
+          2010
+          F
+    Feels deeper than the most
+
+Then repeat the intro over "Where it started, where it started..."
+
+Outro: linger on F13 for a bit and resolve to Gmaj7.
+
+Note: If F13 is hard on your fingers, F7 [2313] is fine too.
