@@ -1,0 +1,39 @@
+"Present Tense"
+by Radiohead
+chords for soprano ukulele https://github.com/lynn/ukulele
+
+       4342  110x 0331  0036  4322  1402  2100  2120  4322
+intro: G#m   C#m  D#/Fx Cm    B     E     A     F#m   B
+
+4342  1102
+G#m   C#m7    G#m  C#m7
+  This dance,   this dance
+4446        3324
+EΔ          D#m7    EΔ         D#m7
+  Is like a weapon,   is like a weapon
+
+G#m       C#m7     G#m       C#m7
+  Of self defence,   of self defence
+EΔ            D#m7     EΔ            D#m7
+  Against the present,   against the present
+4446          4646
+EΔ            G#m/F#
+  The present tense
+
+G#m               C#m7   G#m         C#m7
+  Don't wanna get heavy,   don't get heavy
+4444      3324       4444      1002
+E6        D#m7       E6        E/C
+  Keep it light, and   keep it moving
+4444   3324  4444   4644
+E6     D#m7  E6     E/F#
+  I am doing   no harm
+
+G#m    C#m7   G#m     C#m7
+  As my world   comes crashing down
+E         D#m      E          E/C
+  I'll be dancing,   freaking out
+E       E/F#     G#m
+  Deaf dumb and blind
+
+(TODO...)
