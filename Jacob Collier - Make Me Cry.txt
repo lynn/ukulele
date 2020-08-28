@@ -1,0 +1,54 @@
+"Make Me Cry"
+by Jacob Collier
+chords for soprano ukulele https://github.com/lynn/ukulele
+
+Tune your ukulele 50 cents down.
+I'll write the chords as if the tune is in D, rather than D-half-flat.
+
+________________________________________________
+
+2220     0232
+D        G             D          G
+In every sea there's a mouth of a river
+      D         G           D
+Where waterfall riches flow down
+            0003  0453 
+            C     C6/E  C  C6/E         D  G  D  G
+Why do they cry?           No one knows why
+
+D        G               D       G
+In every mouth there's a word of forgiveness
+     D             G          D
+That melts all the ice to the ground
+           C    C6/E   C  C/6          D  G  D
+Why do you sigh?          I don't know why
+
+________________________________________________
+
+             4322  4422
+G            B     Bsus4  B     Bsus4
+Why does the sky   fall   down  like
+3336  3346     1124        111x    1110
+Eb    Ebsus4   Dbsus4      C#      C#(b13)
+pou-  ring     rain?    To let it flow again
+
+2102           4322
+Aadd9          B
+Gonna make you feel alright
+(TODO)
+Take your dreams, keep them out of sight
+Aadd9          B
+Wanna make you come alive
+(TODO)
+Close your eyes, keep you warm at night
+
+0232             0012
+G                A
+So come a little closer to me
+G                A
+So many things I want you to see
+0232  1402  0402  2220
+G     E     Em    D     G D G
+      My    dar-  ling
+
+(TODO)
