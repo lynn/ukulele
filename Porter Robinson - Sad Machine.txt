@@ -21,7 +21,7 @@ Ammaj7 x0x110  halls, ...
 (x2)
 
 post-bridge chords:
-Amaj9    x0x100
+Amaj9    x0x100   or maybe 5x6x00 is comfier here
 Eadd2/G# 4x4x00
 F#m11    2xx200
 C#m9     x4x440
