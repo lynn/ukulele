@@ -2,15 +2,15 @@ is anyone there? oh. hi! this one's for  guitar...
 tune your guitar down a semitone.
 
 main chords:
-Amaj9  x0x100  (x2)
+E/A    x0x100  (x2)
 C#m9   x4x440
 F#m11  2xx200
 
 bridge:        I don't know
-C#m9   x4x440  much abou
-E/D#   xx1100  t your li
-E      xx2100  fe beyond thes
-Ammaj7 x0x110  e walls
+C#m9   x4x440  much about
+E/D#   xx1100  your life
+E      xx2100  beyond these
+Ammaj7 x0x110  walls
 A/B    x2x220
 
 C#m9   x4x440  the fleeting
@@ -21,7 +21,7 @@ Ammaj7 x0x110  halls, ...
 (x2)
 
 post-bridge chords:
-Amaj9    x0x100   or maybe 5x6x00 is comfier here
+E/A      x0x100   or maybe 5x6x00 is comfier here
 Eadd2/G# 4x4x00
 F#m11    2xx200
 C#m9     x4x440
